@@ -4,7 +4,7 @@ title: Zu Xiang
 subtitle: Aspiring Software Engineer
 ---
 
-I'm Zu Xiang and I am a ***final year student*** currently studying in Digipen(SIT) and I am expected to graduate this ***May 2022***. 
+I'm Zu Xiang and I am a ***final year student*** currently studying in Digipen(SIT). I am expected to graduate this ***May 2022*** and I am currently looking for ***internship / full-time*** job opportunities for software engineer. 
 
 My passion lies with writing clean performant code for ***desktop applications*** and ***computer graphics*** primarily with `C++`. 
 
