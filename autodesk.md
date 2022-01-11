@@ -2,7 +2,7 @@
 layout: page
 title: Autodesk Internship
 subtitle: Software developer Intern
-cover-img: /assets/img/autodesk_logo.png
+cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/img/project_panel.gif"]
 ---
 
 ## What I worked on
