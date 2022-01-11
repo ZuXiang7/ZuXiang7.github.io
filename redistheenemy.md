@@ -2,6 +2,7 @@
 layout: page
 title: Red is The enemy
 subtitle: 3rd year Game project
+share-img: /assets/img/picking.gif
 ---
 
 ## Description
@@ -18,7 +19,5 @@ In my opinion, the issue was that some of the programmer's programming efficienc
 At that time, I felt the most efficient way of solving this issue was to either redo the code or take over the key feature completely. 
 
 In retrospect, I should have tried to convice my team the importance of code review and sharing our research so everyone had a better understanding of the codebase and have the ability to handle key features.
-
-![TestGif](https://github.com/ZuXiang7/ZuXiang7.github.io/blob/master/assets/img/picking.gif)
 
 [Download here](https://games.digipen.edu/games/red-is-the-enemy)
