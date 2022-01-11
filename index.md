@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+layout: page
+title: Zu Xiang
+subtitle: Aspiring Software Engineer
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
