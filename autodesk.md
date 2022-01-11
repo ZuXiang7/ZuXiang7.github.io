@@ -6,15 +6,15 @@ cover-img: /assets/img/picking.gif
 ---
 
 ## What I worked on
-*Developed features for [Recap Online Viewer](https://www.autodesk.com.sg/products/recap/overview), specifically for point cloud
+* Developed features for [Recap Online Viewer](https://www.autodesk.com.sg/products/recap/overview), specifically for point cloud
 <p align = "center">
   <img src = "/assets/img/picking.gif" alt = "picking" />
 </p>
 <p align = "center">
  Features I worked on - Picking
 </p>
-*Modified point cloud translator for scalable output
-*Researched on debugging tools for web development
+* Modified point cloud translator for scalable output
+* Researched on debugging tools for web development
 
 ## What I learnt
 This was my first ever experience working in a software company and I found it very enjoyable and fruitful. 
