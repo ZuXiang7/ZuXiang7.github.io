@@ -6,12 +6,24 @@ cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/i
 ---
 
 ## What I worked on
-* Developed features for [Recap Online Viewer](https://www.autodesk.com.sg/products/recap/overview), specifically for point cloud
+* Developed features for [Recap Online Viewer](https://www.autodesk.com.sg/products/recap/overview), specifically for point cloud such as ***picking***, ***mirror ball*** and  ***project panel***
 <p align = "center">
   <img src = "/assets/img/picking.gif" alt = "picking" />
 </p>
 <p align = "center">
- Features I worked on - Picking
+ **Picking**
+</p>
+<p align = "center">
+  <img src = "/assets/img/mirror_ball.gif" alt = "mirror_ball" />
+</p>
+<p align = "center">
+ **Mirror Ball**
+</p>
+<p align = "center">
+  <img src = "/assets/img/project_panel.gif" alt = "project_panel" />
+</p>
+<p align = "center">
+ **Project Panel**
 </p>
 * Modified point cloud translator for scalable output
 * Researched on debugging tools for web development
