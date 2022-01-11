@@ -22,4 +22,4 @@ In retrospect, I should have tried to convice my team the importance of code rev
 
 <img src = "/assets/img/picking.gif" alt = "picking" />
 
-[Download here](https://games.digipen.edu/games/red-is-the-enemy)
+[Download](https://games.digipen.edu/games/red-is-the-enemy)
