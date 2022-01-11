@@ -2,7 +2,7 @@
 layout: page
 title: Red is The enemy
 subtitle: 3rd year Game project
-share-img: /assets/img/picking.gif
+cover-img: /assets/img/picking.gif
 ---
 
 ## Description
