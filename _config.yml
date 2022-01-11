@@ -14,7 +14,8 @@ author: Zu Xiang
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Internship: "aboutme"
+  Internship: 
+    - Autodesk: "autodesk"
   Projects:
     - Red is the enemy: "redistheenemy"
   Resume: "https://deanattali.com"
