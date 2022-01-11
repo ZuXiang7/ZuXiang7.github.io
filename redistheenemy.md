@@ -20,4 +20,6 @@ At that time, I felt the most efficient way of solving this issue was to either 
 
 In retrospect, I should have tried to convice my team the importance of code review and sharing our research so everyone had a better understanding of the codebase and have the ability to handle key features.
 
+<img src = "/assets/img/picking.gif" alt = "picking" />
+
 [Download here](https://games.digipen.edu/games/red-is-the-enemy)
