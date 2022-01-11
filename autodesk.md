@@ -11,19 +11,19 @@ cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/i
   <img src = "/assets/img/picking.gif" alt = "picking" />
 </p>
 <p align = "center">
- **Picking**
+ <b>Picking</b>
 </p>
 <p align = "center">
   <img src = "/assets/img/mirror_ball.gif" alt = "mirror_ball" />
 </p>
 <p align = "center">
- **Mirror Ball**
+ <b>Mirror Ball</b>
 </p>
 <p align = "center">
   <img src = "/assets/img/project_panel.gif" alt = "project_panel" />
 </p>
 <p align = "center">
- **Project Panel**
+ <b>Project Panel</b>
 </p>
 * Modified point cloud translator for scalable output
 * Researched on debugging tools for web development
