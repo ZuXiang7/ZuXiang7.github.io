@@ -18,7 +18,7 @@ navbar-links:
     - Autodesk: "autodesk"
   Projects:
     - Red is the enemy: "redistheenemy"
-  Resume: "docs/SeahZuXiang_resume.pdf"
+  Resume: "/docs/SeahZuXiang_resume.pdf"
 
 # --- Logo --- #
 
