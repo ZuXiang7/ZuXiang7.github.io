@@ -8,7 +8,7 @@ I'm Zu Xiang and I am a ***final year student*** currently studying in Digipen(S
 
 My passion lies with writing clean performant code for ***desktop applications*** and ***computer graphics*** primarily with `C++`. 
 
-After my internship with Autodesk, I came to realize there were still interesting and important techincal skills I am unfamiliar with such as `GO`, `Python` and `Docker`. I have since studied them on my own and I look forward to ***job opportunities*** where I am able to learn more and grow as a software engineer.
+After my internship with Autodesk, I came to realize there were still interesting and important programming language and tech stacks I am unfamiliar with. I have since studied  programming language such as `GO` and tech stack such as `Linux` and `Docker` on my own and I look forward to ***job opportunities*** where I am able to learn more and grow as a software engineer.
 
 Do check out my projects and internship experience where I detail what I worked on and what I learnt.
 
