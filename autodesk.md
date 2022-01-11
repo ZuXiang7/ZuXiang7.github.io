@@ -25,6 +25,7 @@ cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/i
 <p align = "center">
  <b>Project Panel</b>
 </p>
+
 * Modified point cloud translator for scalable output
 * Researched on debugging tools for web development
 
