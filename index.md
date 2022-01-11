@@ -14,4 +14,4 @@ Do check out my projects and internship experience where I detail what I worked 
 
 Feel free to drop me an email at <zuxiang7@gmail.com> or message me on [linkedin](https://www.linkedin.com/in/zuxiang/) for any queries.
 
-***Thank you for dropping by***
+***Thank you**
