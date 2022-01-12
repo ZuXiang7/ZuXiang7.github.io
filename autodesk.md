@@ -28,7 +28,7 @@ cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/i
 
 * Modified point cloud translator for scalable output
 <p align = "center">
-  <img src = "/assets/img/unified.png" alt = "unified" /><img src = "/assets/img/split.png" alt = "split" />
+  <img src = "/assets/img/unified.png" alt = "unified" width = "400"/><img src = "/assets/img/split.png" alt = "split" width = "400"/>
 </p>
 <p align = "center">
  <b>Unifed on the left, Split on the right</b>
