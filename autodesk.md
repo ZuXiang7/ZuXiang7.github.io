@@ -27,6 +27,12 @@ cover-img: ["/assets/img/picking.gif", "/assets/img/mirror_ball.gif", "/assets/i
 </p>
 
 * Modified point cloud translator for scalable output
+<p align = "center">
+  <img src = "/assets/img/unified.png" alt = "unified" /><img src = "/assets/img/split.png" alt = "split" />
+</p>
+<p align = "center">
+ <b>Unifed on the left, Split on the right</b>
+</p>
 * Researched on debugging tools for web development
 
 ## What I learnt
