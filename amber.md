@@ -4,9 +4,9 @@ title: Amber
 subtitle: 2nd year game project
 cover-img:
   [
-    "/assets/img/amber/amber_gif0.gif",
-    "/assets/img/amber/amber_gif1.gif",
-    "/assets/img/amber/amber_gif2.gif",
+    "/assets/img/amber/amber_0.gif",
+    "/assets/img/amber/amber_1.gif",
+    "/assets/img/amber/amber_2.gif",
   ]
 ---
 
@@ -52,13 +52,13 @@ I felt that I did a decent job making myself useful and learnt that I should cla
  <b>GIFs of gameplay</b>
 </p>
 <p align = "center">
-  <img src = "/assets/img/amber/amber_gif0.gif" alt = "amber_gif0" />
+  <img src = "/assets/img/amber/amber_0.gif" alt = "amber_gif0" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/amber/amber_gif1.gif" alt = "amber_gif1" />
+  <img src = "/assets/img/amber/amber_1.gif" alt = "amber_gif1" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/amber/amber_gif2.gif" alt = "amber_gif2" />
+  <img src = "/assets/img/amber/amber_2.gif" alt = "amber_gif2" />
 </p>
 
 [Download](https://games.digipen.edu/games/amber)
