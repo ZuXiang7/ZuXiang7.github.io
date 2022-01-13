@@ -56,6 +56,9 @@ In retrospect, I should have tried to convice my team the importance of code rev
  <b>GIFs of gameplay</b>
 </p>
 <p align = "center">
+ <b>! Image quality and framerate severely deteriorated due to limitations of GIFs !</b>
+</p>
+<p align = "center">
   <img src = "/assets/img/redistheenemy/redistheenemy_gif2.gif" alt = "redistheenemy_gif2" />
 </p>
 <p align = "center">

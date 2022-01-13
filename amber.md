@@ -52,6 +52,9 @@ I felt that I did a decent job making myself useful and learnt that I should cla
  <b>GIFs of gameplay</b>
 </p>
 <p align = "center">
+ <b>! Image quality and framerate severely deteriorated due to limitations of GIFs !</b>
+</p>
+<p align = "center">
   <img src = "/assets/img/amber/amber_0.gif" alt = "amber_gif0" />
 </p>
 <p align = "center">
