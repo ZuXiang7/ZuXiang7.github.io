@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red is The enemy
-subtitle: 3rd year Game project
+subtitle: 3rd year game project
 cover-img:
   [
     "/assets/img/redistheenemy/redistheenemy_gif2.gif",
