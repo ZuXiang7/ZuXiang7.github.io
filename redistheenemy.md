@@ -2,7 +2,7 @@
 layout: page
 title: Red is The enemy
 subtitle: 3rd year Game project
-cover-img: /assets/img/picking.gif
+cover-img: ["/assets/img/redistheenemy/redistheenemy_gif1.gif", "/assets/img/redistheenemy/redistheenemy_gif2.gif", "/assets/img/redistheenemy/redistheenemy_gif3.gif"]
 ---
 
 ## Description
@@ -20,6 +20,17 @@ At that time, I felt the most efficient way of solving this issue was to either 
 
 In retrospect, I should have tried to convice my team the importance of code review and sharing our research so everyone had a better understanding of the codebase and have the ability to handle key features.
 
-<img src = "/assets/img/picking.gif" alt = "picking" />
+<p align = "center">
+  <img src = "/assets/img/redistheenemy/redistheenemy_gif1.gif" alt = "redistheenemy_gif1" />
+</p>
+<p align = "center">
+  <img src = "/assets/img/redistheenemy/redistheenemy_gif2.gif" alt = "redistheenemy_gif2" />
+</p>
+<p align = "center">
+  <img src = "/assets/img/redistheenemy/redistheenemy_gif3.gif" alt = "redistheenemy_gif3" />
+</p>
+<p align = "center">
+  <img src = "/assets/img/redistheenemy/redistheenemy_gif4.gif" alt = "redistheenemy_gif4" />
+</p>
 
 [Download](https://games.digipen.edu/games/red-is-the-enemy)
