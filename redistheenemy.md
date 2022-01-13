@@ -32,5 +32,8 @@ In retrospect, I should have tried to convice my team the importance of code rev
 <p align = "center">
   <img src = "/assets/img/redistheenemy/redistheenemy_gif4.gif" alt = "redistheenemy_gif4" />
 </p>
+<p align = "center">
+  <img src = "/assets/img/redistheenemy/redistheenemy_gif4.gif" alt = "redistheenemy_gif5" />
+</p>
 
 [Download](https://games.digipen.edu/games/red-is-the-enemy)
