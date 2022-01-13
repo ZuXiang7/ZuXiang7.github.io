@@ -34,22 +34,22 @@ In retrospect, I should have tried to convice my team the importance of code rev
  <b>Screenshots of gameplay</b>
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_0.png" alt = "redistheenemy_png0" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_0.PNG" alt = "redistheenemy_png0" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_1.png" alt = "redistheenemy_png1" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_1.PNG" alt = "redistheenemy_png1" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_2.png" alt = "redistheenemy_png2" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_2.PNG" alt = "redistheenemy_png2" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_3.png" alt = "redistheenemy_png3" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_3.PNG" alt = "redistheenemy_png3" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_4.png" alt = "redistheenemy_png4" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_4.PNG" alt = "redistheenemy_png4" />
 </p>
 <p align = "center">
-  <img src = "/assets/img/redistheenemy/redistheenemy_5.png" alt = "redistheenemy_png5" />
+  <img src = "/assets/img/redistheenemy/redistheenemy_5.PNG" alt = "redistheenemy_png5" />
 </p>
 
 <p align = "center">
