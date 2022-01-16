@@ -4,9 +4,9 @@ title: Autodesk Internship
 subtitle: Software developer Intern
 cover-img:
   [
-    "/assets/img/picking.gif",
-    "/assets/img/mirror_ball.gif",
-    "/assets/img/project_panel.gif",
+    "/assets/img/autodesk/picking.gif",
+    "/assets/img/autodesk/mirror_ball.gif",
+    "/assets/img/autodesk/project_panel.gif",
   ]
 ---
 
@@ -14,19 +14,19 @@ cover-img:
 
 - Developed features for [Recap Online Viewer](https://www.autodesk.com.sg/products/recap/overview), specifically for point cloud such as **_picking_**, **_mirror ball_** and **_project panel_**
 <p align = "center">
-  <img src = "/assets/img/picking.gif" alt = "picking" />
+  <img src = "/assets/img/autodesk/picking.gif" alt = "picking" />
 </p>
 <p align = "center">
  <b>Picking</b>
 </p>
 <p align = "center">
-  <img src = "/assets/img/mirror_ball.gif" alt = "mirror_ball" />
+  <img src = "/assets/img/autodesk/mirror_ball.gif" alt = "mirror_ball" />
 </p>
 <p align = "center">
  <b>Mirror Ball</b>
 </p>
 <p align = "center">
-  <img src = "/assets/img/project_panel.gif" alt = "project_panel" />
+  <img src = "/assets/img/autodesk/project_panel.gif" alt = "project_panel" />
 </p>
 <p align = "center">
  <b>Project Panel</b>
@@ -34,15 +34,33 @@ cover-img:
 
 - Modified point cloud translator for scalable output
 <p align = "center">
-  <img src = "/assets/img/unified.png" alt = "unified"/>
+  <img src = "/assets/img/autodesk/unified.png" alt = "unified"/>
 </p>
 <p align = "center">
-  <img src = "/assets/img/split.png" alt = "split" />
+  <img src = "/assets/img/autodesk/split.png" alt = "split" />
 </p>
 <p align = "center">
  <b>Unifed on the top, Split on the bottom</b>
 </p>
 - Researched on debugging tools for web development
+<p align = "center">
+  <img src = "/assets/img/autodesk/chrome_debugger.png" alt = "chrome_debugger" />
+</p>
+<p align = "center">
+ <b>Chrome performance analyzer </b>
+</p>
+<p align = "center">
+  <img src = "/assets/img/autodesk/chrome_tracing.png" alt = "chrome_tracing" />
+</p>
+<p align = "center">
+ <b>Chrome Tracing</b>
+</p>
+<p align = "center">
+  <img src = "/assets/img/autodesk/spector.png" alt = "spector" />
+</p>
+<p align = "center">
+ <b>Specter</b>
+</p>
 
 ## What I learnt
 
