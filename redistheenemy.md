@@ -18,6 +18,7 @@ This is a 3D game project where we write a custom game engine primarily with `c+
 For this project, I was the tech lead and I worked primarily on
  ### **Engine architecture** 
  - ECS
+ - Templated
  - sparse sets
  - groups
  - delegates 
