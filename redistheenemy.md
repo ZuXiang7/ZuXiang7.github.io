@@ -48,6 +48,7 @@ For this project, I was the tech lead and I worked primarily on
 - Batching
 - Shader pipeline
 - particles
+ 
 ### Embedding Scripting Language
 - C#
 - [mono](https://www.mono-project.com/)
