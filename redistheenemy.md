@@ -16,44 +16,45 @@ This is a 3D game project where we write a custom game engine primarily with `c+
 
 ## Role / What I worked on
 For this project, I was the tech lead and I worked primarily on
- ### **Engine architecture** 
- - ECS
- - Templated
- - sparse sets
- - groups
- - delegates 
- - hierarchy
- - prefabs
- ### **Serialization** 
- - Binary serialization with [cereal](https://github.com/USCiLab/cereal)
- - Json serialization with [rapidjson](https://github.com/Tencent/rapidjson) 
- - reflection with [properties](https://gitlab.com/LIONant/properties)
- ### **Resource Management**
- - File manager
- - dds texture compression with [nvidia texture tools](https://developer.nvidia.com/nvidia-texture-tools-exporter) 
- - Fbx models with [assimp](https://github.com/assimp/assimp)
- ### **Renderer**
- - OpenGL
- - Deffered Shading
- - SMAA
- - PBR with IBL
- - Bloom
- - SSAO
- - Shadows
- - Instancing
- - Batching
- - Shader pipeline
- - particles
- ### **Embedding Scripting Language**
- - C#
- - [mono](https://www.mono-project.com/)
- ### **Editor**
- - [ImGui](https://github.com/ocornut/imgui)
- - Scene Graph
- - Inspector
- - Viewport
- - Profiler
- - File viewer
+ 
+### Engine architecture
+- ECS
+- Templated
+- sparse sets
+- groups
+- delegates 
+- hierarchy
+- prefabs
+### Serialization
+- Binary serialization with [cereal](https://github.com/USCiLab/cereal)
+- Json serialization with [rapidjson](https://github.com/Tencent/rapidjson) 
+- reflection with [properties](https://gitlab.com/LIONant/properties)
+### Resource Management
+- File manager
+- dds texture compression with [nvidia texture tools](https://developer.nvidia.com/nvidia-texture-tools-exporter) 
+- Fbx models with [assimp](https://github.com/assimp/assimp)
+### Renderer
+- OpenGL
+- Deffered Shading
+- SMAA
+- PBR with IBL
+- Bloom
+- SSAO
+- Shadows
+- Instancing
+- Batching
+- Shader pipeline
+- particles
+### Embedding Scripting Language
+- C#
+- [mono](https://www.mono-project.com/)
+### Editor
+- [ImGui](https://github.com/ocornut/imgui)
+- Scene Graph
+- Inspector
+- Viewport
+- Profiler
+- File viewer
 
 
 ## What I learnt
