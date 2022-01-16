@@ -12,11 +12,48 @@ cover-img:
 
 ## Description
 
-3D game project built with custom engine with limited 3rd party libraries and rendering API
+This is a 3D game project where we write a custom game engine primarily with `c++`, limited 3rd party libraries and rendering API. The project spans over 2 semester(6 months) and is completed in a group of 9.
 
 ## Role / What I worked on
+For this project, I was the tech lead and I worked primarily on
+ ### **Engine architecture** 
+ - ECS
+ - sparse sets
+ - groups
+ - delegates 
+ - hierarchy
+ - prefabs
+ ### **Serialization** 
+ - Binary serialization with [cereal](https://github.com/USCiLab/cereal)
+ - Json serialization with [rapidjson](https://github.com/Tencent/rapidjson) 
+ - reflection with [properties](https://gitlab.com/LIONant/properties)
+ ### **Resource Management**
+ - File manager
+ - dds texture compression with [nvidia texture tools](https://developer.nvidia.com/nvidia-texture-tools-exporter) 
+ - Fbx models with [assimp](https://github.com/assimp/assimp)
+ ### **Renderer**
+ - OpenGL
+ - Deffered Shading
+ - SMAA
+ - PBR with IBL
+ - Bloom
+ - SSAO
+ - Shadows
+ - Instancing
+ - Batching
+ - Shader pipeline
+ - particles
+ ### **Embedding Scripting Language**
+ - C#
+ - [mono](https://www.mono-project.com/)
+ ### **Editor**
+ - [ImGui](https://github.com/ocornut/imgui)
+ - Scene Graph
+ - Inspector
+ - Viewport
+ - Profiler
+ - File viewer
 
-Tech lead, worked primarily on Engine architecture ( ECS , Serialization, Resource Management), Render ( OpenGL ), Embedding Scripting Language (C# using mono) and Editor
 
 ## What I learnt
 
