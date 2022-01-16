@@ -12,11 +12,23 @@ cover-img:
 
 ## Description
 
-2D game project where we developed a custom game engine with limited 3rd party libraries and rendering API
+This is a 2D game project where we write a custom game engine primarily with c++, limited 3rd party libraries and rendering API. The project spans over 2 semester(6 months) and is completed in a group of 9.
 
 ## Role / What I worked on
+For this project, I was the Tools and Debugging Programme and I worked primarily on
 
-Tools and Debugging Programmer, worked primarily on developing QOL tools for editor and Debugging
+### Programming
+ - Hierarchy relationship between entities
+ - Improved performance for ECS 
+ - Added functionalities for particle system
+
+### Debugging
+ - Helped debug any bugs faced by programmers and designers
+
+### Misc
+ - Scripting and polishing for menus
+ - scripted rain and lighting particles (not used)
+ - Trailer
 
 ## What I learnt
 
