@@ -12,7 +12,7 @@ cover-img:
 
 ## Description
 
-This is a 3D game project where we write a custom game engine primarily with `c++`, limited 3rd party libraries and rendering API. The project spans over 2 semester(6 months) and is completed in a group of 9.
+[Red is the enemy](https://games.digipen.edu/games/red-is-the-enemy) is a 3D game project where we write a custom game engine primarily with `c++`, limited 3rd party libraries and rendering API. The project spans over 2 semester(6 months) and is completed in a group of 9.
 
 ## Role / What I worked on
 For this project, I was the tech lead and I worked primarily on
