@@ -12,11 +12,25 @@ cover-img:
 
 ## Description
 
-2D game project made where we used a school in-house library(Alpha Engine) to develop a game engine
+This is a 2D game project made where we used a school in-house library(Alpha Engine) to develop a game engine. The project spans over 1 semester(3 months) and is completed in a group of 4.
 
 ## Role / What I worked on
 
-Tech Lead, Worked primarily on 2D Physics
+For this project, I was the tech lead and I worked primarily on
+
+### 2D physics
+ - Circle vs Circle collision test
+ - Circle vs AABB collision test
+ - AABB vs AABB collision test
+ - Physics
+
+### Gameplay features
+ - Magnets
+ - Spikeballs
+ - Portals
+ - Rotation simulation
+ - God mode
+ - smoke particles
 
 ## What I learnt
 
