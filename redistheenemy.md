@@ -38,6 +38,7 @@ For this project, I was the tech lead and I worked primarily on
  
 ### Renderer
 - OpenGL
+- Textures
 - Deffered Shading
 - SMAA
 - PBR with IBL
@@ -47,7 +48,9 @@ For this project, I was the tech lead and I worked primarily on
 - Instancing
 - Batching
 - Shader pipeline
-- particles
+- particles(billboard and sprite animation)
+- OIT 
+- Vignette
  
 ### Embedding Scripting Language
 - C#
@@ -61,6 +64,15 @@ For this project, I was the tech lead and I worked primarily on
 - Profiler
 - File viewer
 
+### Gameplay
+- Gun bobbing
+- Gun muzzle flash
+- Enemy Explosion VFX
+- bullet impact VFX
+- bullet trail vfx
+- Smoke particles
+- Death screen
+- Add lighting
 
 ## What I learnt
 
