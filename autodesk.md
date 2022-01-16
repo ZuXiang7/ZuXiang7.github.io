@@ -32,7 +32,7 @@ cover-img:
  <b>Project Panel</b>
 </p>
 
-- Modified point cloud translator for scalable output
+- Modified point cloud translator to allow process be parallelized and stream friendly
 <p align = "center">
   <img src = "/assets/img/autodesk/unified.png" alt = "unified"/>
 </p>
