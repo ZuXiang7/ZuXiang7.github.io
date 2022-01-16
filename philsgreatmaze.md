@@ -12,7 +12,7 @@ cover-img:
 
 ## Description
 
-This is a 2D game project made where we used a school in-house library(Alpha Engine) to develop a game engine. The project spans over 1 semester(3 months) and is completed in a group of 4.
+***[Phil's Great Maze](https://games.digipen.edu/games/phil-s-great-maze)*** is a 2D game project made where we used a school in-house library(Alpha Engine) to develop a game engine. The project spans over 1 semester(3 months) and is completed in a group of 4.
 
 ## Role / What I worked on
 
